@@ -1,0 +1,305 @@
+.classy{
+    font-style: normal;
+    font-family: Castellar;
+    font-weight: 20px;
+    font-size: 70px;
+    text-decoration-color: white;
+    background-color:darkgray;
+    size: 70px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 70px;
+    color: white;
+    margin-top: 20px;
+}
+
+.para{
+    background: url(img/custom_showcase1_img.avif);rgba:(255,255,253,0.616);
+    background-size: cover;
+    background-position: center;
+    background-blend-mode: lighten;
+    font-weight: 50px;
+    font-size: 55px;
+    text-decoration:white ;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    color: white;
+    width: 490px;
+    
+}
+
+
+
+.para2{
+    background: url(img/custom_showcase2_img.avif);rgba:(255,255,253,0.616);
+    background-size: cover;
+    background-position:center;
+    background-blend-mode: lighten;
+    font-weight: 30px;
+    font-size: 55px;
+    text-decoration:white ;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    padding-right: 40px;
+    color: white;
+    width: 490px;
+    
+    
+}
+
+.para3{
+    background: url(img/custom_showcase3_img.avif);rgba:(255,255,253,0.616);
+    background-size: cover;
+    background-position: center;
+    background-blend-mode: lighten;
+    font-weight: 50px;
+    font-size: 55px;
+    text-decoration:white ;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    color: white;
+    margin-left: px;
+    width: 484px;
+}
+
+
+.para6{
+   background: url("img/picture.jpeg");rgba:(255,255,253,0.616);
+   background-size: cover;
+   height: 750px;
+   width: 1495px;
+   text-align: start;
+   padding-top: 500px;
+   padding-right: 30px;
+   padding-left: 40px;
+   background-position: center;
+   /* padding-top: 300px;
+   padding-left: 40px; */
+   /* margin-left: 40px; */
+   color: white;
+}
+
+
+
+
+
+.feature{
+    background-color: silver;
+    font-weight: 70px;
+    width: 1495px;
+    height: 70px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+     text-align: justify;
+     padding-left: 30px;
+     color: white;
+     margin-top: 10px;
+}
+
+#imagelogo{
+    background-color: lightgrey;
+   width: 352px;
+   padding: 40px;
+
+}
+
+#imagelogo2{
+    background-color: lightgrey;
+    width: 351px;
+   padding: 40px;
+   margin-left: 25px;
+}
+
+#imagelogo3{
+    background-color: lightgrey;
+    width: 351px;
+   padding: 40px;
+   margin-left: 25px;
+   
+}
+
+#imagelogo4{
+    background-color: lightgrey;
+    width: 352px;
+   padding: 40px;
+   margin-left: 25px;
+}
+
+
+
+.head1{
+    margin-right:190px;
+}
+
+
+.head{
+    background-color:lightgrey;
+   padding: 10px;
+   color: white;
+ }
+ 
+ .head2{
+    background-color: lightgray;
+    padding: 20px;
+    color: white;
+ }
+ 
+  .imagelogo{
+    /* background-color: lightgrey; */
+    padding: 29px;
+ } 
+ 
+ .imagelogo2{
+    /* background-color: lightgrey; */
+    padding: 29px;
+   
+ } 
+ 
+  .imagelogo3{
+    /* background-color: lightgrey; */
+    padding: 29px;
+ } 
+
+
+ .head3{
+    margin-right: 70px;
+    text-align: left;
+    text-decoration: underline;
+    
+ }
+ 
+ .text{
+    color: darkgrey;
+    font-size: 14px;
+ }
+ 
+ .imagelogo9{
+    background-color: lightgray;
+    width: 355px;
+    /* padding-left: 20px;
+    padding-right: 34px; */
+    padding: 70px;
+    height: 270px; ;
+ }
+ 
+ .head4{
+    background-color: lightgray;
+    padding: 20px;
+    color: white;
+ }
+
+ .hd{
+   background-color: lightgray;
+   padding: 10px;
+   color: white;
+   text-decoration: none;
+ }
+
+ .text1{
+   color: darkgray;
+ }
+
+
+ .imagelogo7{
+   margin-left: 40px;
+ }
+
+ .imagelogo5{
+   background-color: lightgrey;
+ }
+
+ .home{
+   margin-left: 20px;
+ }
+
+
+ .imagelogo4{
+   background-color:lightgray;
+
+
+ }
+
+
+ .para4{
+   background: url("img/mini.jpeg");rgba:(255,255,253,0.616);
+   background-size: cover;
+   height: 750px;
+   width: 1495px;
+   text-align: start;
+   padding-top: 500px;
+   padding-right: 30px;
+   padding-left: 40px;
+   background-position: center;
+   color: white;
+ }
+
+ .para5{
+   background: url(img/pool.jpeg);
+   background-size: cover;
+   height: 750px;
+   width: 1495px;
+   text-align: start;
+   padding-top: 500px;
+   padding-right: 30px;
+   padding-left: 40px;
+   background-position: center;
+   color: white;
+ }
+
+ .para9{
+   background: url(img/vl.jpeg);
+   background-size: cover;
+   height: 750px;
+   width: 1495px;
+   text-align: start;
+   padding-top: 500px;
+   padding-right: 30px;
+   padding-left: 40px;
+   background-position: center;
+   color: white;
+ }
+
+
+ .para8{
+   background: url(img/bucket.jpeg);
+   background-size: cover;
+   height: 750px;
+   width: 1495px;
+   text-align: start;
+   padding-top: 500px;
+   padding-right: 30px;
+   padding-left: 70px;
+   background-position: center;
+   color: white;
+
+ }
+
+ .addblog{
+  text-align: center;
+ 
+   
+ }
+
+ .btn:hover{
+  background-color: blue;
+  color: white;
+  /* margin-left: 500px; */
+ }
+
+
+ .bag{
+  background-color: lightgray;
+ }
+
+
+.add{
+ margin-left: 350px;
+ color: blue;
+}
+
+
